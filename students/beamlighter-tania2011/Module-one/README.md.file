@@ -1,0 +1,11 @@
+What is DevOps? ans: DevOps is something that unify software development and operations.
+What problems does devops solve?ans:it solves software development and operation related issues 
+What does CI and CD mean in the context of DevOps?ans CI make and CD operate .
+What is the abbreviation for CI and CD? Continuous integration and continuous deployment.
+What is SDLC?ans:Software development lifecycle
+What is waterfall & AGILE when it comes to SDLC?ans: these are two methods of sdlc.
+What is a CICD pipeline?ans:full step of making and realeasing software
+What is build automation?ans: process of preparing code for deployment
+What is Infrastructure as code (IaC)?ans:it manage infrastructure through code and automation
+What are some benefits of implementing IAC?ans: consistency,reusability,sealability,simplify and complexity
+What are some tools used for continious integration?Ans:jenkins
