@@ -1,0 +1,14 @@
+What is Github? Why is it used?ans:its an online software development platform where people can work together or watch other people's work and solve any ongoing issues
+What does the git clone command do? ans:byt git clone we can download the file on personal laptop
+What does the git status command do?ans:it show the current status of the file.
+What does the git add command do?ans:it add/stage the file to terminal so that it can be uploaded on github server later
+What does the git commit & git push command do?ans:git commit and add are same.it stage the file on terminal and git push upload the file(which is in terminal to online server
+What does git pull command do?ans:it upload latest command on terminal from server.(opposite of push)
+What is merge conflict? How does it occur & how can we avoid it?ans:merge conflict occures when there have different contents on two comparing brnches.if we edit it and remove the differences it will be resolved
+four uncovered commands are:
+# git log ..... show all commits in the current branch’s history
+# git rm [file]  ...... delete the file from project and stage the removal for commit
+# git mv [existing-path] [new-path]   .....change an existing file path and stage the move
+# git reset [file]... unstage a file while retaining the changes in working directory
+# git diff.......diff of what is changed but not staged
+# git diff --staged ......diff of what is staged but not yet commited
